@@ -2,17 +2,19 @@
 
 A **regex**, short for **regular expression**, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string.
 
+## Table of Contents
+* [Project Objective](#project-objective)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Deployment Link](#deployment-link)
+* [Components Regex](#components-of-regex)
+* [Regex Explained](#explanation-of-regex)
+* [Author](#author)
 
 ## Project Objective
 
 As a web development student
 I desire a tutorial explaining a specific regex,
 so I can understand the search pattern the regex defines.
-
-## Table of Contents
-* [Project Objective](#project-objective)
-* [Acceptance Criteria](#acceptance-criteria)
-* [Deployment Link](#deployment-link)
 
 ### Accepted Criteria
 
@@ -21,8 +23,7 @@ so I can understand the search pattern the regex defines.
 
 ### Deployed Link
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* [Deployed](https://zartender.github.io/17-regex-explained/)
 
 ### Components of REGEX
 
