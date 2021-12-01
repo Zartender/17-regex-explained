@@ -35,10 +35,11 @@ code blocks for commands
 
 ## Explanation of REGEX
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+<script src="https://gist.github.com/Zartender/e577e181ea89c95d89e17619ac6395fe#file-index-js"></script>
+
+<script src="https://gist.github.com/Zartender/be55bf772019f4673b3b658effb00d77#file-regex-email-verification-md"></script>
+
+
 
 ## Author
 
@@ -48,23 +49,5 @@ Contributor
 * [@Zartender](https://github.com/Zartender)
 * [@Greenblott](https://www.linkedin.com/in/greenblott/)
 
-## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
