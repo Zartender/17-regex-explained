@@ -2,25 +2,29 @@
 
 A **regex**, short for **regular expression**, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string.
 
+
 ## Project Objective
 
 As a web development student
 I desire a tutorial explaining a specific regex,
 so I can understand the search pattern the regex defines.
 
-## Getting Started
+## Table of Contents
+* [Project Objective](#project-objective)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Deployment Link](#deployment-link)
 
-### Dependencies
+### Accepted Criteria
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* WHEN I open the tutorial
+* THEN I see a descriptive title and introductory paragraph explaining the purpose of the tutorial, a summary describing the regex featured in the tutorial, a table of contents linking to different sections that break down each component of the regex and explain what it does, and a section about the author with a link to the author’s GitHub profile
 
-### Installing
+### Deployed Link
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
-### Executing program
+### Components of REGEX
 
 * How to run the program
 * Step-by-step bullets
@@ -28,19 +32,20 @@ so I can understand the search pattern the regex defines.
 code blocks for commands
 ```
 
-## Help
+## Explanation of REGEX
 
 Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
 
-## Authors
+## Author
 
-Contributors names and contact info
+Contributor
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* Ian Greenblott 
+* [@Zartender](https://github.com/Zartender)
+* [@Greenblott](https://www.linkedin.com/in/greenblott/)
 
 ## Version History
 
